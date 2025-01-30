@@ -54,6 +54,7 @@ Here’s a sneak peek of what Zoomer looks like!
 
 ---
 
+
 ### Dashboard Page  
 
 ![Screenshot 2025-01-30 054647](https://github.com/user-attachments/assets/cff82256-58f2-4071-958f-c906352688da)
@@ -61,11 +62,9 @@ Here’s a sneak peek of what Zoomer looks like!
 ![Screenshot 2025-01-30 054709](https://github.com/user-attachments/assets/ea22897d-eafd-4a81-bc55-c7fc86712fa4)
 
 
----
-
-> To add your screenshots, place them in a `screenshots/` folder in the repository and update the file paths accordingly.
 
 ---
+
 
 ## ⏳ Development Timeline
 
