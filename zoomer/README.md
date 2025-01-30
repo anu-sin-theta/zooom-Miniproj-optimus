@@ -1,65 +1,82 @@
-# Zoomer - A Zoom Clone Built with Modern Web Technologies
+# 🌐 Zoomer - A Modern Zoom Clone
 
-Zoomer is a web-based video conferencing platform inspired by Zoom, designed for seamless virtual meetings, webinars, and collaborative sessions. Built using cutting-edge tools and frameworks, Zoomer provides a user-friendly interface, robust security, and scalability to support modern remote communication needs.
-
----
-
-## 🌟 Features
-
-- **User Authentication & Authorization**:
-  - Secure user registration, login, and logout using **Clerk Auth**.
-  - Robust session management and access control.
-
-- **Real-Time Video Conferencing**:
-  - High-quality video and audio communication with **getstream** and **WebRTC**.
-  - Support for multiple participants in meetings.
-  - Screen sharing functionality.
-
-- **Dynamic User Interface**:
-  - Clean and responsive design with **Shadcn UI**.
-  - Optimized for various devices and screen sizes.
-
-- **Collaboration Tools**:
-  - Real-time chat within meetings.
-  - File sharing and collaborative whiteboarding.
-
-- **Meeting Management**:
-  - Schedule, join, and manage meetings with ease.
-  - Essential controls like mute/unmute, raise hand, and in-meeting chat moderation.
-
-- **Recording & Playback**:
-  - Record meetings for future reference.
-  - Playback stored recordings on demand.
+**Zoomer** is a web-based video conferencing platform that replicates and enhances core features of Zoom. With a focus on usability, scalability, and security, Zoomer enables seamless virtual meetings, webinars, and collaborative sessions using cutting-edge technologies.
 
 ---
 
-## 🚀 Technology Stack
+## ✨ Features
+
+- **🔒 Secure Authentication**
+  - User registration, login, and logout with **Clerk Auth**.
+  - Session management and role-based access control.
+
+- **🎥 Real-Time Video Conferencing**
+  - Video/audio communication using **getstream** and **WebRTC**.
+  - Multi-participant meetings and screen sharing.
+
+- **🎨 Modern User Interface**
+  - Responsive, clean, and user-friendly design with **Shadcn UI**.
+  - Optimized for all devices.
+
+- **💬 Collaboration Tools**
+  - Real-time chat and file sharing during meetings.
+  - Collaborative whiteboarding.
+
+- **📅 Meeting Management**
+  - Scheduling, joining, and managing meetings.
+  - Features like mute/unmute, raise hand, and chat moderation.
+
+- **🎥 Recording and Playback**
+  - Record meetings and access playback anytime.
+
+---
+
+## 🛠 Technology Stack
 
 - **Frontend**: [Next.js](https://nextjs.org/)
 - **Authentication**: [Clerk Auth](https://clerk.dev/)
 - **UI Components**: [Shadcn UI](https://shadcn.dev/)
-- **Video/Audio Streaming**: [getstream](https://getstream.io/)
+- **Video Streaming**: [getstream](https://getstream.io/)
 - **Real-Time Communication**: WebRTC
 - **IDE**: WebStorm
 
 ---
 
-## 📅 Project Timeline
+## 📸 Screenshots
 
-1. **Requirements Analysis & Planning**:
-   - Define features, setup repositories, and API endpoints.
-2. **Architecture & Design**:
-   - Design architecture, wireframes, and setup project structure.
-3. **Development**:
-   - User authentication, real-time communication, UI development, and meeting management.
-4. **Testing & QA**:
-   - Unit, integration, and end-to-end testing, followed by security and performance checks.
-5. **Deployment & Maintenance**:
-   - Deploy to cloud platforms (e.g., Vercel), enable monitoring, and finalize documentation.
+Here’s a sneak peek of what Zoomer looks like!  
+
+### Home Page  
+
+![Home Page](path/to/homepage_screenshot.png)
 
 ---
 
-## 🛠️ Installation
+### Dashboard Page  
+
+![Dashboard Page](path/to/meetingroom_screenshot.png)
+
+---
+
+> To add your screenshots, place them in a `screenshots/` folder in the repository and update the file paths accordingly.
+
+---
+
+## ⏳ Development Timeline
+
+1. **Requirements & Planning**
+2. **Architecture & Design**
+3. **Development**
+   - Week 1-2: User authentication.
+   - Week 3-4: Video and audio communication.
+   - Week 5: UI components and chat features.
+   - Week 6: Meeting management and recording.
+4. **Testing & QA**
+5. **Deployment & Maintenance**
+
+---
+
+## 🚀 Getting Started
 
 1. Clone the repository:
    ```bash
