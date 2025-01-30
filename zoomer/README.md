@@ -47,8 +47,9 @@
 Here’s a sneak peek of what Zoomer looks like!  
 
 ### Home Page  
+![Screenshot 2025-01-30 054548](https://github.com/user-attachments/assets/3cde7283-b08e-4df1-9091-9d9ce612e044)
 
-![Home Page](path/to/homepage_screenshot.png)
+
 
 ---
 
@@ -67,10 +68,10 @@ Here’s a sneak peek of what Zoomer looks like!
 1. **Requirements & Planning**
 2. **Architecture & Design**
 3. **Development**
-   - Week 1-2: User authentication.
-   - Week 3-4: Video and audio communication.
-   - Week 5: UI components and chat features.
-   - Week 6: Meeting management and recording.
+   - User authentication.
+   - Video and audio communication.
+   - UI components and chat features.
+   - Meeting management and recording.
 4. **Testing & QA**
 5. **Deployment & Maintenance**
 
