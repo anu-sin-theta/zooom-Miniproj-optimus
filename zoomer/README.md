@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Zoomer - A Zoom Clone Built with Modern Web Technologies
 
-## Getting Started
+Zoomer is a web-based video conferencing platform inspired by Zoom, designed for seamless virtual meetings, webinars, and collaborative sessions. Built using cutting-edge tools and frameworks, Zoomer provides a user-friendly interface, robust security, and scalability to support modern remote communication needs.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌟 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **User Authentication & Authorization**:
+  - Secure user registration, login, and logout using **Clerk Auth**.
+  - Robust session management and access control.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Real-Time Video Conferencing**:
+  - High-quality video and audio communication with **getstream** and **WebRTC**.
+  - Support for multiple participants in meetings.
+  - Screen sharing functionality.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Dynamic User Interface**:
+  - Clean and responsive design with **Shadcn UI**.
+  - Optimized for various devices and screen sizes.
 
-## Learn More
+- **Collaboration Tools**:
+  - Real-time chat within meetings.
+  - File sharing and collaborative whiteboarding.
 
-To learn more about Next.js, take a look at the following resources:
+- **Meeting Management**:
+  - Schedule, join, and manage meetings with ease.
+  - Essential controls like mute/unmute, raise hand, and in-meeting chat moderation.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Recording & Playback**:
+  - Record meetings for future reference.
+  - Playback stored recordings on demand.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🚀 Technology Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- **Frontend**: [Next.js](https://nextjs.org/)
+- **Authentication**: [Clerk Auth](https://clerk.dev/)
+- **UI Components**: [Shadcn UI](https://shadcn.dev/)
+- **Video/Audio Streaming**: [getstream](https://getstream.io/)
+- **Real-Time Communication**: WebRTC
+- **IDE**: WebStorm
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📅 Project Timeline
+
+1. **Requirements Analysis & Planning**:
+   - Define features, setup repositories, and API endpoints.
+2. **Architecture & Design**:
+   - Design architecture, wireframes, and setup project structure.
+3. **Development**:
+   - User authentication, real-time communication, UI development, and meeting management.
+4. **Testing & QA**:
+   - Unit, integration, and end-to-end testing, followed by security and performance checks.
+5. **Deployment & Maintenance**:
+   - Deploy to cloud platforms (e.g., Vercel), enable monitoring, and finalize documentation.
+
+---
+
+## 🛠️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/zoomer.git
+   cd zoomer
