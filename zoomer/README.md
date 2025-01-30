@@ -49,13 +49,17 @@ Here’s a sneak peek of what Zoomer looks like!
 ### Home Page  
 ![Screenshot 2025-01-30 054548](https://github.com/user-attachments/assets/3cde7283-b08e-4df1-9091-9d9ce612e044)
 
+![Screenshot 2025-01-30 054610](https://github.com/user-attachments/assets/c2f708b0-d1d0-424b-ad25-8afe7726263a)
 
 
 ---
 
 ### Dashboard Page  
 
-![Dashboard Page](path/to/meetingroom_screenshot.png)
+![Screenshot 2025-01-30 054647](https://github.com/user-attachments/assets/cff82256-58f2-4071-958f-c906352688da)
+
+![Screenshot 2025-01-30 054709](https://github.com/user-attachments/assets/ea22897d-eafd-4a81-bc55-c7fc86712fa4)
+
 
 ---
 
