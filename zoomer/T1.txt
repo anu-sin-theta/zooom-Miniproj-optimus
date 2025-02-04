@@ -1,0 +1,55 @@
+
+ 	
+To develop a video conferencing platform with secure authentication using Clerk and support for social sign-ins (Google, GitHub, LinkedIn). 
+The application will enable real-time video/audio communication with dynamic layouts and integrate the Stream API for enterprise-grade performance. 
+Users will be able to schedule, start, and join meetings, with logs for upcoming and past meetings. The interface will be sleek and mobile-first, 
+designed with Tailwind CSS and ShadCN UI, and include real-time interactivity features like live chat and screen sharing. 
+The platform will be deployed for global accessibility.
+Turn on screen reader support
+To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortcuts, press Ctrl+slashKOYAL THOKDAR has joined the document.
+
+
+requirement-auth,sigh-in,video/audio conferencing 
+
+Frontend-React.js with tailwind CSS and shadCN UI.
+Backend-Node.js with WebRTC for real-time communication.
+Authentication-clerk for user management.
+Database-Postgre or MongoDB(create schema for different type of different data(which data is to be stred in cloud or which is on mongoDB/Postgre)
+API Integration-Stream API for performance.
+
+Authentication:
+Integrate Clerk for secure authentication.
+Enable social sign-ins for Google, GitHub, and LinkedIn.
+
+ZoomClone is a full-stack video conferencing application built using Next.js and TypeScript, with real-time video, audio, and chat features. 
+The app enables secure video meetings with multiple participants, dynamic layouts, and easy scheduling
+
+
+Next.js framework
+    npx create-next-app@latest 
+TailwindCSS
+ShadCN UI
+    npx shadcn@latest add button,dialog
+TypeScript advanced of javascript for realtime
+Clerk for security and auth.
+    npm install @clerk/clerk-sdk-node 
+	npm install @clerk/nextjs
+Stream for realtime video/audio
+    npm i @stream-io/node-sdk
+    npm install @stream-io/video-react-sdk
+
+npm install react-datepicker
+npm install date-fns
+
+
+npx kill-port 3000
+npm run dev -- -p 4000
+
+
+ui.aceternity
+
+npm i motion clsx tailwind-merge
+npx shadcn@latest add https://ui.aceternity.com/registry/background-beams.json
+npx shadcn@latest add https://ui.aceternity.com/registry/background-gradient-animation.json
+npx shadcn@latest add https://ui.aceternity.com/registry/hover-border-gradient.json
+npx shadcn@latest add https://ui.aceternity.com/registry/wobble-card.json
